@@ -1,3 +1,1 @@
 # MCPY
-
-## MCP + Python = MCPY
